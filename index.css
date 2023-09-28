@@ -219,6 +219,10 @@ cursor: pointer;
     
    }
 
+.port-text{
+    font-size: 0.90rem;
+}
+
 
 .side{
 
@@ -296,7 +300,6 @@ border-bottom:none ;
 
 
 }
-
 
 
 
